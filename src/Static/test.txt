@@ -1,0 +1,1 @@
+然而,随着图片文件大小的不断增加,存储和传输的效率成为了一个挑战。本文将探讨Java中压缩图片的两种方法:使用Java自带的ImageIO类和使用第三方库如Apache Commons Compress
